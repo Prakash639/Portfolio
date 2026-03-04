@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my skills, projects, and resume.
 
 ## 🚀 Live Demo
-(After deploying, add your GitHub Pages link here)
+mprakash-dev.netlify.app
 
 ## 📌 About Me
 I am an MCA graduate passionate about backend development, Java, and full-stack development.  
